@@ -100,9 +100,8 @@ TSTBFuse           6.31    10.78    2.03      1.55    0.76    1.46
 ## 🙌 TSTBFuse
 
 ### Illustration of our TSTBFuse model.
-### Illustration of our MCADFusion model.
 <p align="center">
-  <img src="./framework.png" width="60%">
+  <img src="framework.png" width="60%">
 </p>
 
 ## 📧 Contact
